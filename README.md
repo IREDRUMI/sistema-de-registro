@@ -2,4 +2,5 @@
 -Estado del proyecto: En construcción
 
 Para ejecutarl el programa, debes poner:
+
 ```npm install react```
